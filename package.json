@@ -1,0 +1,19 @@
+{
+  "name": "summernote-ext-specialchars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "summernote-ext-specialchars.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativecirclemedia/summernote-ext-specialchars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creativecirclemedia/summernote-ext-specialchars/issues"
+  },
+  "homepage": "https://github.com/creativecirclemedia/summernote-ext-specialchars#readme"
+}
